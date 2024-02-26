@@ -14,4 +14,3 @@
 `js/main.js`：js文件，用于HTML和jsx交互。
 
 `jsx/main.jsx`：jsx文件，用于与ps交互。调用ps接口
-
