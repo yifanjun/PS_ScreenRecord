@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<ExtensionManifest Version="4.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ExtensionBundleId="dhzx.CreatNewDocument" ExtensionBundleName="dhzx.CreatNewDocument" ExtensionBundleVersion="5.0.18">
-    <Author>大话主席</Author>
+<ExtensionManifest Version="4.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ExtensionBundleId="com.zyf.ScreenRecord" ExtensionBundleName="com.zyf.ScreenRecord" ExtensionBundleVersion="5.0.18">
+    <Author>zyf</Author>
     <Contact mailto="**@abc.com" />
     <Abstract href="http://www.superslide2.com/" />
     <ExtensionList>
-        <Extension Id="dhzx.CreatNewDocument" Version="1.0" /> <!-- 插件ID 和 版本-->
+        <Extension Id="com.zyf.ScreenRecord" Version="1.0" /> <!-- 插件ID 和 版本-->
     </ExtensionList>
 
     <ExecutionEnvironment>
@@ -25,7 +25,7 @@
 
     </ExecutionEnvironment>
     <DispatchInfoList>
-        <Extension Id="dhzx.CreatNewDocument">
+        <Extension Id="com.zyf.ScreenRecord">
             <DispatchInfo>
                 <Resources>
                     <MainPath>./index.html</MainPath> <!-- 程序入口-->
